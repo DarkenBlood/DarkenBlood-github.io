@@ -1,5 +1,11 @@
 # Tienda de dulces
 
+**Instalación:**
+
+Antes que nada tenés que tener instalado XAMPP, posteriormente y al obtener el código, tendrías que transladarlo a la carpeta "xampp/htdocs en el disco local", al ejecutar XAMPP tendrás que activar "Apache" y "MySQL" para finalmente importar la base de datos ingresando a "localhost/phpmyadmin".
+
+Una vez importada la base de datos, ya podés disfrutar de la gran página ingresando a "localhost/dulces" :D.
+
 - inicio
 - logueo
 - index
